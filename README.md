@@ -12,11 +12,11 @@ STEPS:
 
 	If the plot have bits less than 512, we pad zeros (Zero padding) and compute the DFT of it. By plotting wave, we can observe that male utterance had higher periodicity than female utterance.
 
-![1](https://user-images.githubusercontent.com/69961625/122654985-a2076980-d16c-11eb-9890-020ee20b9ad1.png)
-
 ![2](https://user-images.githubusercontent.com/69961625/122654994-ae8bc200-d16c-11eb-97f4-b97664cc5ca5.png)
+Figure 1:Representation in time domain using Discrete signal.
 
 ![3](https://user-images.githubusercontent.com/69961625/122654999-b51a3980-d16c-11eb-9f1f-fdb8343bab0c.png)
+Figure 2: Representation of DFT if Discrete signal.
 
 CONCLUSION:
 
