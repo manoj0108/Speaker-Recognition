@@ -6,6 +6,8 @@ The subject leads that a gender-dependent characterization of speakers combined 
 
 STEPS:
 	Initially we record of vowel “A” as in bat from one male and one female speaker.
+
 	It is in continuous domain, that would be converted into discrete domain and plot the wave form.
+
 	If the plot have bits less than 512, we pad zeros (Zero padding) and compute the DFT of it. By plotting wave, we can observe that male utterance had higher periodicity than female utterance.
 
