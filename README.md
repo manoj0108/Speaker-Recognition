@@ -5,6 +5,7 @@ Person identification, especially in critical environments, has always been a su
 The subject leads that a gender-dependent characterization of speakers combined with the use of a set of features derived from the components, resulting from the deconstruction of the voice into its glottal source and vocal tract estimates, will enhance recognition rates when compared to classical approaches.
 
 STEPS:
+
 	Initially we record of vowel “A” as in bat from one male and one female speaker.
 
 	It is in continuous domain, that would be converted into discrete domain and plot the wave form.
